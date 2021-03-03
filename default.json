@@ -1,0 +1,1691 @@
+{
+	"interface": {
+		"scale": 2.0,
+		"widgets": [
+			{
+				"alignment": [
+					1,
+					1,
+					1,
+					1
+				],
+				"edgedistance": [
+					0,
+					0,
+					0,
+					0
+				],
+				"kids": [
+					{
+						"alignment": [
+							1,
+							1,
+							1,
+							0
+						],
+						"edgedistance": [
+							0,
+							0,
+							0,
+							1387
+						],
+						"kids": [
+							{
+								"alignment": [
+									1,
+									0,
+									1,
+									0
+								],
+								"edgedistance": [
+									1748,
+									-914,
+									0,
+									2
+								],
+								"kids": [
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											40,
+											-40,
+											0,
+											0
+										],
+										"position": [
+											40,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											40,
+											40
+										],
+										"type": "MENU"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											40,
+											-40,
+											0,
+											0
+										],
+										"position": [
+											40,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											40,
+											40
+										],
+										"text": "Reset",
+										"type": "MENU"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											40,
+											-40,
+											0,
+											0
+										],
+										"position": [
+											40,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											40,
+											40
+										],
+										"type": "MENU"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											40,
+											-40,
+											0,
+											0
+										],
+										"position": [
+											40,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											40,
+											40
+										],
+										"text": "Quit",
+										"type": "MENU"
+									}
+								],
+								"position": [
+									0,
+									23
+								],
+								"scale": 2.0,
+								"size": [
+									40,
+									40
+								],
+								"text": "File",
+								"type": "MENU"
+							},
+							{
+								"alignment": [
+									1,
+									0,
+									1,
+									0
+								],
+								"edgedistance": [
+									1748,
+									-914,
+									0,
+									2
+								],
+								"kids": [
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											40,
+											-40,
+											0,
+											0
+										],
+										"kids": [
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													40,
+													-40,
+													0,
+													0
+												],
+												"position": [
+													40,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													40,
+													40
+												],
+												"text": "Dark",
+												"type": "MENU"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													40,
+													-40,
+													0,
+													0
+												],
+												"position": [
+													40,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													40,
+													40
+												],
+												"text": "Light",
+												"type": "MENU"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													40,
+													-40,
+													0,
+													0
+												],
+												"position": [
+													40,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													40,
+													40
+												],
+												"text": "Military",
+												"type": "MENU"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													40,
+													-40,
+													0,
+													0
+												],
+												"position": [
+													40,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													40,
+													40
+												],
+												"text": "Matrix",
+												"type": "MENU"
+											}
+										],
+										"position": [
+											40,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											40,
+											40
+										],
+										"text": "Change theme",
+										"type": "MENU"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											40,
+											-40,
+											0,
+											0
+										],
+										"position": [
+											40,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											40,
+											40
+										],
+										"type": "MENU"
+									}
+								],
+								"position": [
+									109,
+									23
+								],
+								"scale": 2.0,
+								"size": [
+									40,
+									40
+								],
+								"text": "Edit",
+								"type": "MENU"
+							},
+							{
+								"alignment": [
+									1,
+									0,
+									1,
+									0
+								],
+								"edgedistance": [
+									1748,
+									-914,
+									0,
+									2
+								],
+								"kids": [
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											40,
+											-40,
+											0,
+											0
+										],
+										"position": [
+											40,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											40,
+											40
+										],
+										"text": "Help Contents",
+										"type": "MENU"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											40,
+											-40,
+											0,
+											0
+										],
+										"position": [
+											40,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											40,
+											40
+										],
+										"text": "About",
+										"type": "MENU"
+									}
+								],
+								"position": [
+									221,
+									23
+								],
+								"scale": 2.0,
+								"size": [
+									40,
+									40
+								],
+								"text": "Help",
+								"type": "MENU"
+							}
+						],
+						"position": [
+							0,
+							0
+						],
+						"scale": 2.0,
+						"size": [
+							874,
+							42
+						],
+						"type": "MENU"
+					},
+					{
+						"alignment": [
+							1,
+							1,
+							1,
+							1
+						],
+						"edgedistance": [
+							0,
+							0,
+							42,
+							-42
+						],
+						"kids": [
+							{
+								"alignment": [
+									1,
+									0,
+									1,
+									0
+								],
+								"edgedistance": [
+									32,
+									32,
+									16,
+									1221
+								],
+								"kids": [
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											0,
+											1,
+											0,
+											-3
+										],
+										"position": [
+											0,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											806,
+											192
+										],
+										"text": ".HITMAN2",
+										"type": "LABEL"
+									}
+								],
+								"position": [
+									32,
+									16
+								],
+								"scale": 2.0,
+								"size": [
+									810,
+									192
+								],
+								"type": "PANEL"
+							},
+							{
+								"alignment": [
+									1,
+									0,
+									1,
+									0
+								],
+								"edgedistance": [
+									16,
+									16,
+									256,
+									423
+								],
+								"kids": [
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											0,
+											33,
+											32,
+											587
+										],
+										"kids": [
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													618,
+													0,
+													-60
+												],
+												"position": [
+													0,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0-60",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													726,
+													-108,
+													0,
+													-60
+												],
+												"position": [
+													726,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											}
+										],
+										"position": [
+											0,
+											32
+										],
+										"scale": 2.0,
+										"size": [
+											806,
+											128
+										],
+										"text": "Seconds",
+										"type": "PANEL"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											0,
+											33,
+											184,
+											435
+										],
+										"kids": [
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													618,
+													0,
+													-60
+												],
+												"position": [
+													0,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0-60",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													726,
+													-108,
+													0,
+													-60
+												],
+												"position": [
+													726,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											}
+										],
+										"position": [
+											0,
+											184
+										],
+										"scale": 2.0,
+										"size": [
+											806,
+											128
+										],
+										"text": "Minutes",
+										"type": "PANEL"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											0,
+											33,
+											336,
+											283
+										],
+										"kids": [
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													618,
+													0,
+													-60
+												],
+												"position": [
+													0,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0-24",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													726,
+													-108,
+													0,
+													-60
+												],
+												"position": [
+													726,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											}
+										],
+										"position": [
+											0,
+											336
+										],
+										"scale": 2.0,
+										"size": [
+											806,
+											128
+										],
+										"text": "Hours",
+										"type": "PANEL"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											0,
+											33,
+											488,
+											131
+										],
+										"kids": [
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													618,
+													0,
+													-60
+												],
+												"position": [
+													0,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0-30",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													726,
+													-108,
+													0,
+													-60
+												],
+												"position": [
+													726,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											}
+										],
+										"position": [
+											0,
+											488
+										],
+										"scale": 2.0,
+										"size": [
+											806,
+											128
+										],
+										"text": "Days",
+										"type": "PANEL"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											0,
+											33,
+											640,
+											-21
+										],
+										"kids": [
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													618,
+													0,
+													-60
+												],
+												"position": [
+													0,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0-4",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													726,
+													-108,
+													0,
+													-60
+												],
+												"position": [
+													726,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											}
+										],
+										"position": [
+											0,
+											640
+										],
+										"scale": 2.0,
+										"size": [
+											806,
+											128
+										],
+										"text": "Weeks",
+										"type": "PANEL"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											0,
+											33,
+											792,
+											-173
+										],
+										"kids": [
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													618,
+													0,
+													-60
+												],
+												"position": [
+													0,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0-30",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													726,
+													-108,
+													0,
+													-60
+												],
+												"position": [
+													726,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											}
+										],
+										"position": [
+											0,
+											792
+										],
+										"scale": 2.0,
+										"size": [
+											806,
+											128
+										],
+										"text": "Months",
+										"type": "PANEL"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											0,
+											33,
+											944,
+											-325
+										],
+										"kids": [
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													618,
+													0,
+													-60
+												],
+												"position": [
+													0,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0-28",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													726,
+													-108,
+													0,
+													-60
+												],
+												"position": [
+													726,
+													0
+												],
+												"scale": 2.0,
+												"size": [
+													128,
+													128
+												],
+												"text": "0",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													0,
+													20,
+													48,
+													-44
+												],
+												"position": [
+													0,
+													48
+												],
+												"scale": 2.0,
+												"size": [
+													726,
+													64
+												],
+												"type": "SLIDER"
+											}
+										],
+										"position": [
+											0,
+											944
+										],
+										"scale": 2.0,
+										"size": [
+											806,
+											128
+										],
+										"text": "Years",
+										"type": "PANEL"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											0,
+											-3,
+											682,
+											-3
+										],
+										"kids": [
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													16,
+													615,
+													8,
+													9
+												],
+												"position": [
+													16,
+													8
+												],
+												"scale": 2.0,
+												"size": [
+													208,
+													48
+												],
+												"text": "Shutdown methods",
+												"type": "LABEL"
+											},
+											{
+												"alignment": [
+													1,
+													0,
+													1,
+													0
+												],
+												"edgedistance": [
+													256,
+													17,
+													8,
+													9
+												],
+												"items": [
+													{
+														"state": 0,
+														"text": "Shutdown computer"
+													},
+													{
+														"state": 0,
+														"text": "Restart computer"
+													},
+													{
+														"state": 0,
+														"text": "Hibernation"
+													},
+													{
+														"state": 0,
+														"text": "Forced shutdown computer"
+													},
+													{
+														"state": 0,
+														"text": "Forced restart computer"
+													},
+													{
+														"state": 0,
+														"text": "Forced hibernation"
+													}
+												],
+												"position": [
+													256,
+													8
+												],
+												"scale": 2.0,
+												"size": [
+													566,
+													48
+												],
+												"type": "COMBOBOX"
+											}
+										],
+										"position": [
+											0,
+											682
+										],
+										"scale": 2.0,
+										"size": [
+											842,
+											68
+										],
+										"type": "PANEL"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											806,
+											1,
+											0,
+											65
+										],
+										"position": [
+											806,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											32,
+											682
+										],
+										"type": "SLIDER"
+									},
+									{
+										"alignment": [
+											1,
+											0,
+											1,
+											0
+										],
+										"edgedistance": [
+											806,
+											1,
+											0,
+											65
+										],
+										"position": [
+											806,
+											0
+										],
+										"scale": 2.0,
+										"size": [
+											32,
+											682
+										],
+										"type": "SLIDER"
+									}
+								],
+								"position": [
+									16,
+									256
+								],
+								"scale": 2.0,
+								"size": [
+									842,
+									750
+								],
+								"type": "PANEL"
+							}
+						],
+						"position": [
+							0,
+							42
+						],
+						"scale": 2.0,
+						"size": [
+							874,
+							1429
+						],
+						"type": "PANEL"
+					},
+					{
+						"alignment": [
+							1,
+							0,
+							1,
+							0
+						],
+						"edgedistance": [
+							0,
+							0,
+							1172,
+							1
+						],
+						"kids": [
+							{
+								"alignment": [
+									1,
+									0,
+									1,
+									0
+								],
+								"edgedistance": [
+									32,
+									590,
+									16,
+									68
+								],
+								"position": [
+									32,
+									16
+								],
+								"scale": 2.0,
+								"size": [
+									192,
+									112
+								],
+								"text": "LAUNCH!",
+								"type": "BUTTON"
+							},
+							{
+								"alignment": [
+									1,
+									0,
+									1,
+									0
+								],
+								"edgedistance": [
+									240,
+									382,
+									16,
+									68
+								],
+								"position": [
+									240,
+									16
+								],
+								"scale": 2.0,
+								"size": [
+									192,
+									112
+								],
+								"text": "ABORT!",
+								"type": "BUTTON"
+							},
+							{
+								"alignment": [
+									1,
+									1,
+									1,
+									0
+								],
+								"edgedistance": [
+									16,
+									-4,
+									154,
+									-2
+								],
+								"position": [
+									16,
+									154
+								],
+								"scale": 2.0,
+								"size": [
+									802,
+									44
+								],
+								"type": "PROGRESSBAR"
+							},
+							{
+								"alignment": [
+									1,
+									1,
+									1,
+									0
+								],
+								"edgedistance": [
+									16,
+									-4,
+									154,
+									-2
+								],
+								"position": [
+									16,
+									154
+								],
+								"scale": 2.0,
+								"size": [
+									802,
+									44
+								],
+								"type": "PROGRESSBAR"
+							}
+						],
+						"position": [
+							0,
+							1172
+						],
+						"scale": 2.0,
+						"size": [
+							874,
+							256
+						],
+						"text": "Launch!",
+						"type": "PANEL"
+					}
+				],
+				"position": [
+					0,
+					0
+				],
+				"scale": 2.0,
+				"size": [
+					874,
+					1429
+				],
+				"type": "PANEL"
+			}
+		]
+	}
+}
